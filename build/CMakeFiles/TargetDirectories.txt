@@ -1,0 +1,3 @@
+C:/code/daliyCode_Windows/daliyCode_Windows/build/CMakeFiles/app.dir
+C:/code/daliyCode_Windows/daliyCode_Windows/build/CMakeFiles/edit_cache.dir
+C:/code/daliyCode_Windows/daliyCode_Windows/build/CMakeFiles/rebuild_cache.dir

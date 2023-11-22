@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/code/daliyCode_Windows/daliyCode_Windows/build",
+  "command": "C:\\MinGW64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\app.dir\\main.cpp.obj -c C:\\code\\daliyCode_Windows\\daliyCode_Windows\\main.cpp",
+  "file": "C:/code/daliyCode_Windows/daliyCode_Windows/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.obj"
+}
+]
