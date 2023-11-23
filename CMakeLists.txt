@@ -11,9 +11,9 @@ cmake_minimum_required(VERSION 3.5)
 set(DCMAKE_CXX_STANDARD 11)
 
 # 项目名称
-project(haibara)
+project(daliyCode)
 
-# 指定可执行程序的输出路径---宏EXECUTABLE_OUTPUT_PATH (若路径不存在则自动生成)
+# 指定可执行程序的输出路径---宏XECUTABLE_OUTPUT_PATH (若路径不存在则自动生成)
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR})
 
 # 搜索文件一---使用aux_source_directory 命令可以查找某个路径下的所有源文件
